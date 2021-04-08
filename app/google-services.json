@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "453433983490",
+    "firebase_url": "https://adoptadogviakotlin-default-rtdb.firebaseio.com/",
+    "project_id": "adoptadogviakotlin",
+    "storage_bucket": "adoptadogviakotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453433983490:android:44dced3786c1892c7f5d1b",
+        "android_client_info": {
+          "package_name": "com.example.adetl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453433983490-7j1g9nnfmre2gr9vo6pbkigs9eikla7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jqOoLzkEKozsqmNv8wKxbP8MQRm23Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453433983490-7j1g9nnfmre2gr9vo6pbkigs9eikla7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
